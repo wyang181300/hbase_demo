@@ -1,2 +1,2 @@
 # hbase_demo
-练习hbase操作
+学习hbase
